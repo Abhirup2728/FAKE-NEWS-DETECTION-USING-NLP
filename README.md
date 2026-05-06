@@ -17,17 +17,6 @@ Paste any news article or headline and get an instant **REAL / FAKE** prediction
 
 ---
 
-## 👥 Team
-
-| Name | Student Code | Roll No. | Reg. No. |
-|------|-------------|----------|----------|
-| Debojyoti Deb | BWU/BTA/22/590 | 22010332556 | 22013001890 |
-| Abhirup Gumtya | BWU/BTA/22/557 | 22010332523 | 22013001857 |
-| Pralay Bajkhan | BWU/BTA/22/567 | 22010332533 | 22013001867 |
-| Ankita Dhali | BWU/BTA/22/613 | 22010332579 | 22013001913 |
-
----
-
 ## 📌 Table of Contents
 
 - [Overview](#-overview)
